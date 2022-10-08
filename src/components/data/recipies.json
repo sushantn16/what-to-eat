@@ -1,0 +1,162 @@
+{
+    "recipies":{
+        "Breakfast":{
+            "veg":[
+                {
+                    "name":"Poha",
+                    "image":"Poha.jpg"
+                },
+                {
+                    "name":"Upma",
+                    "image":"Upma.jpg"
+                },
+                {
+                    "name":"Dhokla",
+                    "image":"Dhokla.jpg"
+                },
+                {
+                    "name":"Idli",
+                    "image":"Idli.jpg"
+                },
+                {
+                    "name":"Quinoa",
+                    "image":"Quinoa.jpg"
+                }
+            ],
+            "nveg":[
+                {
+                    "name":"Chicken Sausage",
+                    "image":"ChickenSausage.jpg"
+                },
+                {
+                    "name":"Omelette",
+                    "image":"Omelette.jpg"
+                },
+                {
+                    "name":"Egg Sandwich",
+                    "image":"EggSandwich.jpg"
+                }
+            ]
+        },
+        "Lunch":{
+            "veg":[
+                {
+                    "name":"Rajma",
+                    "image":"Rajma.jpg"
+                },
+                {
+                    "name":"Dal Makhni",
+                    "image":"DalMakhni.jpg"
+                },
+                {
+                    "name":"Palak Paneer",
+                    "image":"PalakPaneer.jpg"
+                },
+                {
+                    "name":"Chana Masala",
+                    "image":"ChanaMasala.jpg"
+                },
+                {
+                    "name":"Kadhi",
+                    "image":"Kadhi.jpg"
+                }
+            ],
+            "nveg":[
+                {
+                    "name":"Chicken",
+                    "image":"Chicken.jpg"
+                },
+                {
+                    "name":"Mutton",
+                    "image":"Mutton.jpg"
+                }
+            ]
+        },
+        "Dinner":{
+            "veg":[
+                {
+                    "name":"Dal",
+                    "image":"Dal.jpg"
+                },
+                {
+                    "name":"Paneer Bhurji",
+                    "image":"PaneerBhurji.jpg"
+                },
+                {
+                    "name":"Mix Veg",
+                    "image":"MixVeg.jpg"
+                },
+                {
+                    "name":"Rajma",
+                    "image":"Rajma.jpg"
+                },
+                {
+                    "name":"Dal Makhni",
+                    "image":"DalMakhni.jpg"
+                },
+                {
+                    "name":"Palak Paneer",
+                    "image":"PalakPaneer.jpg"
+                },
+                {
+                    "name":"Chana Masala",
+                    "image":"ChanaMasala.jpg"
+                },
+                {
+                    "name":"Kadhi",
+                    "image":"Kadhi.jpg"
+                }
+            ],
+            "nveg":[
+                {
+                    "name":"Chicken",
+                    "image":"Chicken.jpg"
+                },
+                {
+                    "name":"Mutton",
+                    "image":"Mutton.jpg"
+                },
+                {
+                    "name":"Butter Chicken",
+                    "image":"ButterChicken.jpg"
+                },
+                {
+                    "name":"Egg Bhurji",
+                    "image":"EggBhurji.jpg"
+                }
+            ]
+        },
+        "Snacks":{
+            "veg":[
+                {
+                    "name":"Samosa",
+                    "image":"Samosa.jpg"
+                },
+                {
+                    "name":"Tikki",
+                    "image":"Tikki.jpg"
+                },
+                {
+                    "name":"Paneer Tikka",
+                    "image":"PaneerTikka.jpg"
+                },
+                {
+                    "name":"Gol Gappe",
+                    "image":"GolGappe.jpg"
+                },
+                {
+                    "name":"Dahi Bhalle",
+                    "image":"DahiBhalle.jpg"
+                }
+            ],
+            "nveg":[
+                {
+                    "name":"Chicken Tikka",
+                    "image":"Chicken Tikka.jpg"
+                }
+            ]
+        }
+    }
+        
+    
+}
